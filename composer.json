@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Featured_Category_By_Synotive",
+    "type": "magento-module",
+    "license": "OSL",
+    "homepage": "",
+    "description": "Featured Category provides the functionality to show categories in home page.",
+    "authors": [
+    {
+        "name": "Synotive Technologies",
+        "email": "magento@synotive.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

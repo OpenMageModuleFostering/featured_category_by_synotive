@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Synotive_Featuredcategory>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Synotive_Featuredcategory>
+    </modules>
+</config> 

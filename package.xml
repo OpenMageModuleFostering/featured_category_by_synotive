@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+    <name>Featured_Category_By_Synotive</name>
+    <version>1.1.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">OSL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Featured Category provides the functionality to show categories in home page.</summary>
+    <description>Featured Category provides the functionality to show categories in home page.So Admin can easily highlight his category which is not popular.&#xD;
+</description>
+    <notes>Featured Category  is stable version. We have tested it many different version.</notes>
+    <authors><author><name>Synotive Technologies</name><user>Synotive</user><email>magento@synotive.com</email></author></authors>
+    <date>2015-01-30</date>
+    <time>06:20:48</time>
+    <contents><target name="magecommunity"><dir name="Synotive"><dir name="Featuredcategory"><dir name="Block"><file name="Featuredcategory.php" hash="a71d5c137ed838ea2b7c904ed2e7bda3"/></dir><dir name="Helper"><file name="Data.php" hash="bed64fa8cbe2745876650be15523f6ce"/></dir><dir name="Model"><file name="Featuredcategory.php" hash="9027903a181f4b48d6525cfd89910539"/><dir name="Mysql4"><dir name="Featuredcategory"><file name="Collection.php" hash="4473aaf714c1869c943085f51133da85"/></dir><file name="Featuredcategory.php" hash="bbad987945e40ed68ce2292ccdefb7c4"/></dir><file name="Session.php" hash="4f641d130bbd81461cdda2f2fd6f4617"/><file name="Status.php" hash="bbd9301885ec29bf1420ab2b617a4799"/><dir name="Wysiwyg"><file name="Config.php" hash="0f28afa047774f158c3f672af21a7264"/></dir></dir><dir name="controllers"><file name="IndexController.php" hash="894bdad8ffb110688a88c2e2ab464027"/></dir><dir name="etc"><file name="adminhtml.xml" hash="8348f67cad5570c6b2226e8079a95f0a"/><file name="config.xml" hash="f40d71fb5c8cffa4f5549df35bf572c2"/><file name="system.xml" hash="e25d5f9b46e4d13bec4b72db15ff190c"/></dir><dir name="sql"><dir name="featuredcategory_setup"><file name="mysql4-install-0.1.0.php" hash="356b24c42f458cfbb3b9c479d82db5b3"/></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Synotive_Featuredcategory.xml" hash="91b6887e41c13215eee2905c31435c71"/></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><file name="featuredcategory.xml" hash="580d39a15cfc7f8f833606628482cc91"/></dir><dir name="template"><dir name="featuredcategory"><file name="featuredcategory.phtml" hash="8288912e6d3a382902c33c5b8d09d4ab"/></dir></dir></dir></dir></dir><dir name="adminhtml"><dir name="default"><dir name="default"><dir name="layout"><file name="featuredcategory.xml" hash="1df508da44b935808be0dd0cdd5ba495"/></dir></dir></dir></dir></target><target name="mageskin"><dir name="frontend"><dir name="base"><dir name="default"><dir><dir name="css"><dir name="synotive"><file name="featuredcategory.css" hash="046d46cd57f97c183545ddde2f5d0d1b"/></dir></dir></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.0.0</min><max>5.6.2</max></php></required></dependencies>
+</package>
