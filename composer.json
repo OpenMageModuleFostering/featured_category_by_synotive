@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Featured_Category_By_Synotive",
+    "name": "openmage-module-fostering\/featured_category_by_synotive",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Featured Category provides the functionality to show categories in home page.",
     "authors": [
